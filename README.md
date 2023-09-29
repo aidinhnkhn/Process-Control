@@ -1,2 +1,2 @@
 # Process-Control
-The project details and question are available in the pdf file.
+The project details and questions are available in the pdf file.
